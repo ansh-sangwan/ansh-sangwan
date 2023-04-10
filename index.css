@@ -1,0 +1,14 @@
+.css{
+    background-color: black;
+    color: white;
+    size: a4;
+    width: 355px;
+    height: 75px;
+}
+
+.hi{
+background-color: yellow;
+margin: 1px;
+padding: 2px;
+border: 20px solid red;
+}
