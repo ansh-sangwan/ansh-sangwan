@@ -4,6 +4,7 @@
 }
 .css {
   background-color: black;
+  background-attachment: fixed;
   color: white;
   size: a4;
   width: 100%;
